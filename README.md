@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Student<br>Looking for Job
+I am MCA(Master of Computer Applications) Student<br>Actively looking for job or internship opportunities to apply and enhance my skills.<br>interested in Full-stack development,Machine Learning.
 
 
 ## 🌐 Socials:
